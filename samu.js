@@ -46,7 +46,7 @@ const FormData = require('form-data')
 const samuGg = require('google-it');
 const samuGgImg = require('g-i-s');
 const hx = require('hxz-api');
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 const { validmove, setGame } = require("./lib/tictactoe");
 const simple = require('./lib/simple.js');
 const {y2mateA, y2mateV} = require('./lib/y2mate.js')
@@ -92,14 +92,14 @@ const owner = config.owner
 const mods = config.mods
 const fake = 'Sm330'
 var public = config.public
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ | 🅂🅄🅂🅈
 conn.connect()
 const samu330 = conn.samu330
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 const sleep = async (ms) => {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 api = 'CONTACTAME PARA OBTENER LA API'
 fak = 'samu3300'
 prefix = '.'
@@ -143,7 +143,7 @@ samu330.on('CB:action,,call', async json => {
 const callerId = json[2][0][1].from;
 console.log("Llamada recibida de "+ callerId)
 console.log(chalk.greenBright("├"), chalk.keyword("magenta")("[ 📵Llamada recibida ]"), chalk.greenBright(callerId))
-samu330.sendMessage(callerId, "Las llamadas no se permiten, *PORFAVOR LEE LAS REGLAS!* Te bloqueare😒", MessageType.text, {quoted: {key: {
+samu330.sendMessage(callerId, "Las llamadas no se permiten, *PORFAVOR LEE LAS REGLAS!* Bloqueado..😒", MessageType.text, {quoted: {key: {
 fromMe: false,
 participant: `0@s.whatsapp.net`
 },
@@ -167,7 +167,7 @@ message: {
 await sleep(4000)
 await samu330.blockUser(callerId, "add")
 })
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 samu330.on('CB:action,,battery', json => {
 global.batteryLevelStr = json[2][0][1].value
 global.batterylevel = parseInt(batteryLevelStr)
@@ -176,7 +176,7 @@ if (json[2][0][1].live == 'true') charging = true
 if (json[2][0][1].live == 'false') charging = false
 console.log(chalk.greenBright("├"), chalk.keyword("magenta")("[ 🔋Nivel de carga de la bateria ]"), chalk.greenBright(batterylevel+'%'), chalk.keyword("cyan")("Esta cargando?"), chalk.keyword("yellow")(charging))	
 })
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 samu330.on('blocklist-update', async (chat) => {
 for (i of chat.added){
 target = i.replace('@c.us', '@s.whatsapp.net')
@@ -189,7 +189,7 @@ blocked.splice(blocked.indexOf(target), 1)
 console.log(chalk.greenBright("├"), chalk.keyword("green")("[ NUEVO USUARIO DESBLOQUEADO ]"), chalk.keyword("cyan")(target))
 }
 })
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 samu330.on('group-update', async(chat) => {
 var donde = chat.jid
 var group = await samu330.groupMetadata(donde)
@@ -197,10 +197,10 @@ if (!chat.desc == '') {
 var tag = chat.descOwner.split('@')[0] + '@s.whatsapp.net'
 var mensajeDesc = `✍🏻 *La descripcion del grupo ${group.subject} fue modificada por: @${chat.descOwner.split('@')[0]}*\n✅Ahora la nueva descripcion es:\n\n${chat.desc}`
 samu330.sendMessage(group.id, mensajeDesc, MessageType.text)
-console.log(chalk.greenBright("├"), chalk.keyword("yellow")("[ DESCRIPCION CAMBIADA ]"), chalk.keyword("cyan")('grupo'), chalk.keyword("green")(`${group.subject}`))
+console.log(chalk.greenBright("├"), chalk.keyword("yellow")("[ DESCRIPCIÓN CAMBIADA, LEELA ]"), chalk.keyword("cyan")('grupo'), chalk.keyword("green")(`${group.subject}`))
 }
 })
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 samu330.on('group-participants-update', async (anu) => {
 if (!welkom.includes(anu.jid)) return
 try {
@@ -252,7 +252,7 @@ message: {
 "mimetype": "image/jpeg",             
 "jpegThumbnail": fs.readFileSync(`./src/fake.jpg`)           
 },                                
-"title": `Bienvenido a ${mdata.subject}`,
+"title": `Bienvenido/a a ${mdata.subject}`,
 "description": "",                
 "currencyCode": "SYP",                  
 "priceAmount1000": "999999999999999999",
@@ -260,16 +260,15 @@ message: {
 "productImageCount": 999
 },                          
 "businessOwnerJid": `0@s.whatsapp.net`
-}}}, caption: `😙Hola, @${num.split('@')[0]}, _*Bienvenido a ${mdata.subject}, esperamos que te la pases a gusto en este grupo✨*_\n\n_Recuerda siempre seguir las reglas y mantener una formalidad respetuosa_😉\n\nSon las *${jm}* del *${calender}*\n\n${mdata.desc}`, contextInfo: { mentionedJid: [num] }})
+}}}, caption: `😙Hola, @${num.split('@')[0]}, _*Bienvenido/a a ${mdata.subject}, esperamos que te la pases a gusto en este grupo✨*_\n\n_Recuerda siempre seguir las reglas y mantener una formalidad respetuosa_😉\n\nSon las *${jm}* del *${calender}*\n\n${mdata.desc}`, contextInfo: { mentionedJid: [num] }})
 } catch {
 samu330.sendMessage(mdata.id, `😙Hola, @${num.split('@')[0]}, _*Bienvenido a ${mdata.subject}, esperamos que te la pases a gusto en este grupo✨*_\n\n_Recuerda siempre seguir las reglas y mantener una formalidad respetuosa_😉\n\nSon las *${jm}* del *${calender}*\n\n${mdata.desc}`, MessageType.text)
 }
 //leave
 }  else if (anu.action == 'remove') {
 num = anu.participants[0]
-teks = `_Weno ps.... amm😪...  @${num.split('@')[0]} se nos fue, ni llorar es bueno:)_
-_*Ojala y le baya bien, y mas despues..... que lo atropelle un tren!!🚉🤣*_
-*No se awiten gente, esten seguros que nadie lo extrañara:D*`
+teks = `_Weno ps.... amm😪...  @${num.split('@')[0]} se nos fue, nadie lo va a extrañar:)_
+_*Ojalá y le vaya bien, y más después..... que lo atropelle un tren!!🚉🤣*_`
 samu330.sendMessage(mdata.id, teks, MessageType.text,{ contextInfo: {"mentionedJid": [num]}})
 
 } else if (anu.action == 'promote') {
@@ -280,7 +279,7 @@ ppimg = await samu330.getProfilePicture(`${num.split('@')[0]}@c.us`)
 ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 }
 thu = await samu330.getStatus(anu.participants[0], MessageType.text)
-teks = `*✅NUEVO ADMIN✅*\n*🙋🏻‍♂️ Nombre*: @${num.split('@')[0]}\n*📋 INFO*: ${thu.status}\n\n🥳 *FEILICIDADES!!*, te as convertido en administrador del grupo ${mdata.subject}`
+teks = `*✅OSI OSI, TENEMOS NUEVO ADMIN✅*\n*🙋🏻‍♂️ Nombre*: @${num.split('@')[0]}\n*📋 INFO*: ${thu.status}\n\n🥳 *FEILICIDADES CHICO/A!!*, te as convertido en administrador del grupo ${mdata.subject}`
 let buff = await getBuffer(ppimg)
 samu330.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 } else if (anu.action == 'demote') {
@@ -291,7 +290,7 @@ ppimg = await samu330.getProfilePicture(`${num.split('@')[0]}@c.us`)
 ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 }
 thu = await samu330.getStatus(anu.participants[0], MessageType.text)
-teks = `*❌UN ADMIN MENOS❌*\n*🙋🏻‍♂️ Nombre*: @${num.split('@')[0]}\n*📋 INFO*: ${thu.status}\n\n*😪Nimodos, ya no eres admnistrador del grupo* ${mdata.subject}`
+teks = `*❌NOOO...UN ADMIN MENOS❌*\n*🙋🏻‍♂️ Nombre*: @${num.split('@')[0]}\n*📋 INFO*: ${thu.status}\n\n*😪Nimodos, ya no eres admnistrador del grupo, sorry bebé* ${mdata.subject}`
 let buff = await getBuffer(ppimg)
 samu330.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 }
@@ -299,7 +298,7 @@ samu330.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextIn
 console.log('Error : %s', color(e, 'red'))
 }
 })
-////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 samu330.on('chat-update', async(sam) => {
     try {
         if (!sam.hasNewMessage) return
@@ -323,7 +322,7 @@ samu330.on('chat-update', async(sam) => {
        //budy = (type === 'conversation') ? sam.message.conversation : (type === 'extendedTextMessage') ? sam.message.extendedTextMessage.text : (type === 'listResponseMessage') ? sam.message.listResponseMessage.title : ''
 	   var _0x56fb=["\x6C\x69\x73\x74\x52\x65\x73\x70\x6F\x6E\x73\x65\x4D\x65\x73\x73\x61\x67\x65","\x73\x65\x6C\x65\x63\x74\x65\x64\x44\x69\x73\x70\x6C\x61\x79\x54\x65\x78\x74","\x6D\x65\x73\x73\x61\x67\x65","","\x6B\x65\x79\x73","\x73\x74\x69\x63\x6B\x65\x72\x4D\x65\x73\x73\x61\x67\x65","\x62\x61\x73\x65\x36\x34","\x66\x69\x6C\x65\x53\x68\x61\x32\x35\x36"];resbutton= (type== _0x56fb[0])?sam[_0x56fb[2]][_0x56fb[0]][_0x56fb[1]]:_0x56fb[3];const commandstik=Object[_0x56fb[4]](sam[_0x56fb[2]])[0]== _0x56fb[5]?sam[_0x56fb[2]][_0x56fb[5]][_0x56fb[7]].toString(_0x56fb[6]):_0x56fb[3]
 	   selectedButton = (type == 'buttonsResponseMessage') ? sam.message.buttonsResponseMessage.selectedButtonId : ''
-	////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+	////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
         if (prefix != "") {
         if (!body.startsWith(prefix)) {
         cmd = false
@@ -337,7 +336,7 @@ samu330.on('chat-update', async(sam) => {
         comm = body.trim().split(" ").shift().toLowerCase()
         }
 	    
-	////////////▶ 𝐒𝐚𝐦𝐮𝟑𝟑𝟎 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲
+	////////////▶ Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈
 
 	const uploadImages = (filePath) => {
 	return new Promise(async (resolve, reject) => {
@@ -435,20 +434,20 @@ samu330.on('chat-update', async(sam) => {
 	mess = {
 			wait: '⌛ 𝐄𝐍 𝐏𝐑𝐎𝐂𝐄𝐒𝐎 ⌛',
 			success: '✔️ 𝙎𝙐𝙎𝙎𝙀𝙎 ✔️',
-			nsfw: `𝗟𝗼 𝘀𝗶𝗲𝗻𝘁𝗼 𝗽𝗲𝗿𝗼 𝗻𝗼 𝗽𝘂𝗲𝗱𝗼 𝗲𝗷𝗲𝗰𝘂𝘁𝗮𝗿 𝗲𝘀𝗲 𝗰𝗼𝗺𝗮𝗻𝗱𝗼, 𝗲𝘀𝘁𝗲 𝗴𝗿𝘂𝗽𝗼 𝗻𝗼 𝗽𝗲𝗿𝗺𝗶𝘁𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝗶𝗱𝗼 +𝟭𝟴\n*PARA ACTIVAR LOS COMANDOS +18, USA:* ${prefix}+18 1`, 
-			ferr: 'Intentalo de nuevo mas tarde',
+			nsfw: `𝗟𝗼 𝘀𝗶𝗲𝗻𝘁𝗼 𝗽𝗲𝗿𝗼 𝗻𝗼 𝗽𝘂𝗲𝗱𝗼 𝗲𝗷𝗲𝗰𝘂𝘁𝗮𝗿 𝗲𝘀𝗲 𝗰𝗼𝗺𝗮𝗻𝗱𝗼, 𝗲𝘀𝘁𝗲 𝗴𝗿𝘂𝗽𝗼 𝗻𝗼 𝗽𝗲𝗿𝗺𝗶𝘁𝗲 𝗰𝗼𝗻𝘁𝗲𝗻𝗶𝗱𝗼 +𝟭𝟴\n*PARA ACTIVAR LOS COMANDOS +18 USA:* ${prefix}+18 1`, 
+			ferr: 'Inténtalo de nuevo més tarde',
 			error: {
-			stick: '[❗] 𝙀𝙍𝙍𝙊𝙍 intentalo de nuevo, da error a la primera:D  ❌',
-			Iv: '❌ Link invalido ❌'
+			stick: '[❗] 𝙀𝙍𝙍𝙊𝙍 inténtalo de nuevo, da error a la primera:D  ❌',
+			Iv: '❌ Link inválido ❌'
 			},
 			only: {
     			group: '[❗] ¡Este comando solo se puede usar en grupos! ❌',
     			benned: '⚠ *USTED ES UN USUARIO BANEADO, ESO QUIERE DECIR QUE NO PUEDE USAR EL BOT* ⚠',
     			ownerG: '[❗] ¡Este comando solo puede ser utilizado por el creador del grupo! ❌',
-    			ownerB: '[❗] ¡Este comando solo puede ser utilizado por el creador del bot! ❌\nOsea, Samu: wa.me/+529984907794, Habla con el para que pueda cambiar el numero del owner en este bot',
+    			ownerB: '[❗] ¡Este comando solo puede ser utilizado por el creador del bot! ❌\nOsea, Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ : wa.me/+17472338809',
     			admin: '[❗] ¡Este comando solo puede ser utilizado por administradores del grupo! ❌',
     			Badmin: '[❗] ¡Este comando solo se puede usar cuando el bot es administrador! ❌',
-    			usrReg: `Usuario no *Registrado*\n_Para registrarte usa el comando_: *${prefix}reg*`
+//     			usrReg: `Usuario no *Registrado*\n_Para registrarte usa el comando_: *${prefix}reg`
   			}
 			}
 
@@ -525,7 +524,7 @@ samu330.on('chat-update', async(sam) => {
         	if (isGroup && isCmd) console.log(chalk.greenBright("├"), chalk.keyword("aqua")("[ COMMANDO ]"), chalk.whiteBright(typeMessage), chalk.greenBright("de"), chalk.keyword("yellow")(pushname), chalk.greenBright("en el grupo"), chalk.keyword("yellow")(groupName))
 	
 	    	if (isBan && isCmd && !isOwner) {
-		reply('*Lo siento pero usted es un usuario baneado, no puede hacer uso del bot!*')
+		reply('*ups..Lo siento pero usted es un usuario baneado, no puede hacer uso del bot!*')
         	return console.log(chalk.greenBright("├"), chalk.keyword("magenta")("[ USUARIO BANEADO ]"), chalk.whiteBright(`${command}`), chalk.greenBright("de"), chalk.keyword("yellow")(pushname))
         	}
 	
@@ -774,7 +773,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "imageMessage": { "mimetype": "image/jpeg","caption": `🥀Sαм y Perry`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+message: { "imageMessage": { "mimetype": "image/jpeg","caption": `🅂🅄🅂🅈`, 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -783,7 +782,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "documentMessage": { "title":"🔥𝒩𝓎𝒶𝓃𝐵𝑜𝓉 | 𝚂𝚊𝚖 𝚢 𝙿𝚎𝚛𝚛𝚢💓", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
+message: { "documentMessage": { "title":"Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | 🅂🅄🅂🅈", 'jpegThumbnail': fs.readFileSync('./src/fake.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -792,7 +791,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "locationMessage": { "caption":"🥀𝓝𝔂𝓪𝓷𝓑𝓸💞", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
+message: { "locationMessage": { "caption":"Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ ", 'jpegThumbnail': fs.readFileSync('./src/samyperry.png')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -801,7 +800,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "liveLocationMessage": { "caption":"🍒𝒮𝒶𝓂 𝓎 𝒫𝑒𝓇𝓇𝓎 | 𝙉𝙮𝙖𝙣𝘽𝙤𝙩🔥", 'jpegThumbnail': fs.readFileSync('./src/img.jpg')}}
+message: { "liveLocationMessage": { "caption":"🅂🅄🅂🅈 | Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ ", 'jpegThumbnail': fs.readFileSync('./src/img.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -810,7 +809,7 @@ key:
 { fromMe: false,
 participant: `0@s.whatsapp.net`, ...(from ?
 { remoteJid: "status@broadcast" } : {}) },
-message: { "videoMessage": { "caption":"🌺Ｓａｍ ｙ Ｐｅｒｒｙ🌺", 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
+message: { "videoMessage": { "caption":"🅂🅄🅂🅈", 'jpegThumbnail': fs.readFileSync('./src/help.jpg')}}
 }
 contextInfo: {
 mentionedJid: [sender]}
@@ -835,7 +834,7 @@ message: {
 "mimetype": "image/jpeg",
 "jpegThumbnail": fs.readFileSync(`./src/fake.jpg`)
 },
-"title": `🐉𝗦𝗮𝗺𝘂𝟯𝟯𝟬🔥 | 📌𝑵𝒚𝒂𝒏𝑩𝒐𝒕🌹 ${timeFt}`,
+"title": `Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  | Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇  ${timeFt}`,
 "description": "",
 "currencyCode": "SYP",
 "priceAmount1000": "999999999999999999",
@@ -1005,7 +1004,7 @@ const mda = `
 ╒╩════════════
 ╰──────────────╮
 ╭──────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li🌴
+│Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ .li Oℱịcιɑl.li🌴
 ╰───────────────╯`
 
 const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
@@ -1067,9 +1066,9 @@ const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
 │ _Stiker a gif_
 ╰─────────────╮
 ╭─────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li 
+│Ḧ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ .li Oℱịcιɑl.li 
 ╰──────────────╯`
-const Menug = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            
+const Menug = `➫ြḦ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ 𖽙.li Oℱịcιɑl.li                                                                            
         🔐Hola *${pushname}*
     
 ${bodyM} ${samu}${prefix}antilink${samu}
@@ -1146,7 +1145,7 @@ ${bodyM} ${prefix}mfire *(Link de mediafire)*
 ${bodyM} ${prefix}tomp3 *(Videos a audio)*
 ${bodyM} ${prefix}letra *(Busca la letra de una cancion)*`
 
-const Menuo = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                
+const Menuo = `➫ြḦ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ 𖽙.li Oℱịcιɑl.li                                                                
 
 
 ${bodyM} ${prefix}grupos *(Ve los grupos del bot)*
@@ -1181,9 +1180,9 @@ ${bodyM} ${prefix}blocklist
 ${bodyM} ${prefix}leerimagen
 
 *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
-	      🌸 SamịPerry.li 🌸
+	      🅂🅄🅂🅈
  ********************************`
- const Menu7 = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            
+ const Menu7 = `➫ြḦ̴̡̥͉̮̦͉͖̖̹͓́̅̅͗Ầ̸̢̼̞͈̱͖͂̈́͜͜D̵̤͚͛A̴̢̫͉͙̩̝͎̞͋̽̏ ̷̫̩͖̞̘̼̫͈̫͚̈́M̸̨̳̰̠̣͇͉͖̠͉̄͑A̵̢͖̙̪̩͕͍͓͚̭͒͘̕D̷̢̢̤̘̖͉͍̘̗̠̊R̵̡̧̧̝͓̦͗́͗̈́͑̃ͅĮ̸̥̞͈̒̕̕͠ͅṈ̵̡͚̗̙̗̺̌͆̍̅͆͜A̴̢̛͇ 𖽙.li Oℱịcιɑl.li                                                                            
 
  Si quieres contribuir para que todos estos comandos y mas funcionen ala perfeccion, puedes aportar un granito de arena al sigiente paypal:
  
@@ -1231,7 +1230,7 @@ ${bodyM} ${prefix}leerimagen
  ${bodyM} ${prefix}cg *(Etiqueta una imagen)*
  
  *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
-          🌸 SamịPerry.li 🌸
+          🅂🅄🅂🅈
   ******************************`
   const Menu8 = `*COMANDOS PARA ${botNumber}*
 
@@ -2210,7 +2209,7 @@ ${bodyM} ${prefix}audios *(Audios)*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::                                                
 ¦:
 ¦:         . : 🐬𝐍𝐲𝐚𝐧𝐁𝐨𝐭🐬 : .
-¦:     🔥❣️𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆❣️🔥
+¦:                🅂🅄🅂🅈
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
 		     🌸 SamịPerry.li 🌸
@@ -3177,7 +3176,7 @@ picM = samu330.getProfilePicture(mentioneds)
 reply(mess.wait)
 const bas64sp = `data:image/jpeg;base64,${picM.toString('base64')}`
 var imageBuffersp = new Buffer.from(mantapsp, 'base64');
-var mantapsp = await convertSticker(bas64sp, `✍🏻Sp By Samu330🍒\n🔥Sam y Perry🍂`, `${pushname}\n🌬NyanBot💎`)
+var mantapsp = await convertSticker(bas64sp, `✍🏻Sp By Samu330🍒\n🅂🅄🅂🅈`, `${pushname}\n🌬NyanBot💎`)
 samu330.sendMessage(from, imageBuffersp, sticker, {quoted: sam})
 addFilter(from)
 break
@@ -3553,7 +3552,7 @@ if(!isUrl(args[0]) && !args[0].includes('mediafire')) return reply('Link invalid
 reply('*Espera un momento...*')
 teks = args.join(' ')
 const resm = await sm330mfire(teks)
-result = `  「  𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒  」
+result = `  「  🅂🅄🅂🅈  」
 *Nombre :* ${resm[0].nombre}
 *Tamaño :* ${resm[0].size}
 *Link :* ${resm[0].link}
@@ -3991,7 +3990,7 @@ reply('*Espere un momento...*')
 resyt = await y2mateA(teks).catch(e => {
 reply('_[ ! ] Error del servidor_')
 })
-result = `「  𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒  」
+result = `「  🅂🅄🅂🅈  」
 *°Titulo :* ${resyt[0].judul}
 *°Tamaño :* ${resyt[0].size}
 *°Calidad :* ${resyt[0].quality}kbps
@@ -4014,7 +4013,7 @@ reply(mess.wait)
 resyv = await y2mateV(teks).catch(e => {
 reply('_[ ! ] Error del servidor_')
 })
-result = `「  𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒  」
+result = `「  🅂🅄🅂🅈  」
 *°Titulo :* ${resyv[0].judul}
 *°Tamaño :* ${resyv[0].size}
 *°Calidad :* ${resyv[0].quality}p
@@ -4533,13 +4532,13 @@ break
 case 'animevid':
 url = `https://lindow-api.herokuapp.com/api/randomaesthetic?apikey=${apikey}`
 estetik = await getBuffer(url)
-samu330.sendMessage(from, estetik, MessageType.video, {mimetype: 'video/mp4', duration : 999999999, filename: `estetod.mp4`, quoted: fvid, caption: '𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒'})
+samu330.sendMessage(from, estetik, MessageType.video, {mimetype: 'video/mp4', duration : 999999999, filename: `estetod.mp4`, quoted: fvid, caption: '🅂🅄🅂🅈'})
 break
 			
 case 'asupan':
 url = `https://lindow-api.herokuapp.com/api/asupan?apikey=${apikey}`
 asupan = await getBuffer(url)
-samu330.sendMessage(from, asupan, MessageType.video, {mimetype: 'video/mp4', duration : 999999999,filename: `asupan.mp4`, quoted: fvid, caption: '𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒'})
+samu330.sendMessage(from, asupan, MessageType.video, {mimetype: 'video/mp4', duration : 999999999,filename: `asupan.mp4`, quoted: fvid, caption: '🅂🅄🅂🅈'})
 break
 			
 case 'swm':
@@ -4784,7 +4783,7 @@ pic = await samu330.getProfilePicture(mentioned[0])
 pic = 'https://i.ibb.co/Tq7d7TZ/age-hananta-495-photo.png'
 }
 thumb = await getBuffer(pic)
-samu330.sendMessage(from, thumb, MessageType.image, {caption: '𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒'})
+samu330.sendMessage(from, thumb, MessageType.image, {caption: '🅂🅄🅂🅈'})
 }
 addFilter(from)
 break
@@ -4824,7 +4823,7 @@ case 'setreply':
 if (!itsMe) return reply('Este comando solo puede ser usado por *Samu330* ⚙')
 if (!arg) return reply(`Uso: ${prefix}setreply texto`)
 fake = arg
-wa.sendFakeStatus2(from, `𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒`, fake)
+wa.sendFakeStatus2(from, `🅂🅄🅂🅈`, fake)
 break
 case 'term':
 if (!itsMe) return reply('Este comando solo puede ser usado por *Samu330* ⚙')
@@ -5269,7 +5268,7 @@ message: {
 "mimetype": "image/jpeg",
 "jpegThumbnail": fs.readFileSync(`./src/simi.jpg`)
 },
-"title": `➫𝐒𝐢𝐦𝐬𝐢𝐦𝐢 | 𝐒𝐚𝐦 𝐲 𝐏𝐞𝐫𝐫𝐲🔥❣️`,
+"title": `➫𝐒𝐢𝐦𝐬𝐢𝐦𝐢 | 🅂🅄🅂🅈`,
 "description": `${texto}`,
 "currencyCode": '',
 "priceAmount1000": "999999999999999999999",
@@ -5540,7 +5539,7 @@ reply(`error\n\n${err}`)
 fs.unlinkSync(ran)
 } else {
 buffer = fs.readFileSync(ran)
-samu330.sendMessage(from, buffer, MessageType.image, {quoted: sam, caption: '𝗦𝗮𝗺 𝘆 𝗣𝗲𝗿𝗿𝘆🍒'})
+samu330.sendMessage(from, buffer, MessageType.image, {quoted: sam, caption: '🅂🅄🅂🅈'})
 fs.unlinkSync(ran)
 }
 })
